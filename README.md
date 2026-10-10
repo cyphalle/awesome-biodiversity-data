@@ -65,6 +65,7 @@
 - [Copernicus Land Monitoring](https://land.copernicus.eu/) - EU land monitoring datasets.
 - [Global Forest Watch](https://www.globalforestwatch.org/) - Forest monitoring platform.
 - [MapBiomas](https://mapbiomas.org/) - Land use mapping for South America.
+- [KoreAves](https://koreaves.com/) - Free English-first reference atlas for South Korean birds, connecting checklist taxa to sourced regional occurrence records without treating record counts as abundance or complete ranges.
 
 ### Analysis Packages
 - [rgbif](https://docs.ropensci.org/rgbif/) - R interface to GBIF.
